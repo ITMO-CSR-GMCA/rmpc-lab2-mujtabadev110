@@ -1,0 +1,28 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# =========================
+# 📓 Jupyter (DO NOT ignore .ipynb)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# 🧠 Robotics / Simulation logs (optional)
+# =========================
+*.log
+*.out
+
+# =========================
+# 💻 OS / IDE
+# =========================
+.DS_Store
+.vscode/
+.idea/
